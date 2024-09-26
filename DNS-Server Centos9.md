@@ -69,7 +69,7 @@ $TTL 1D
 
         IN      NS      dn1.lokalus.netas. # Type in your dns server hostname
 
-dn1     IN      A        192.168.1.210   # This is the host records add as much as you need.
-main    IN      A        192.168.1.178
+dn1           IN      A        192.168.1.210   # This is the host records add as much as you need.
+"hostname"    IN      A        "IP ADDRESS"
 ```
 
