@@ -1,4 +1,4 @@
-#Setting up system
+# Setting up system
 First we need to update the system..
 
 '''bash
