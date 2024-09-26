@@ -1,7 +1,7 @@
 # Setting up system
 First we need to update the system..
 
-'''bash
+'''
 [root@dn1 ~]# dnf update && dnf upgrade
 '''
 Install required packages..
